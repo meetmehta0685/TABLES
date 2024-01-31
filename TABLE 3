@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <title>TABLE 3</title>
+    </head>
+    <body>
+        <table border="1" cellpadding="10">
+            <tr>
+            <th colspan="2" align="right">Date</th>
+            <td colspan="3" align="left">October 12, 2006</td>
+            </tr>
+            <tr>
+            <th colspan="2" align="right">Customer Name</th>
+            <td colspan="3" align="left">Roger Moor</td>
+            </tr>
+            
+            <tr>
+            <th>Sr No.</th>
+            <th>Item Name</th>
+            <th>Qty</th>
+            <th>Rate(Rs.)</th>
+            <th>amount(Rs).</th>
+            </tr>
+            
+            <tr>
+            <td>1</td>
+            <td>Italian Pizza</td>
+            <td>2</td>
+            <td>90.00</td>
+            <td>180.00</td>
+            </tr>
+            
+            <tr>
+            <td>2</td>
+            <td>Quick Sunday</td>
+            <td>2</td>
+            <td>55.00</td>
+            <td>110.00</td>
+            </tr>
+            
+            <tr>
+            <th colspan="4" align="right">total</th>
+            <td>290.00</td>
+            </tr>
+            
+            <tr>
+            <th colspan="4" align="right">Service Tax(4%)</th>
+            <td><s>11.60</s></td>
+            </tr>
+            <tr>
+            <th colspan="4" align="right">total payable amount</th>
+            <td><u>301.60</u></td>
+            </tr>
+            </table>
+            <hr />
+    </body>
+</html>
+
+
+
+    
