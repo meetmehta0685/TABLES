@@ -1,0 +1,67 @@
+<html>
+    <head>
+        <title>TABLE 4</title>
+    </head>
+    <body>
+        <table border="1" cellpadding="10">
+            <tr>
+            <td colspan="2" align="Center">Computer Hardware</td>
+            </tr>
+            
+            <tr>
+            <td>
+            <ol type="i">
+            <li><u>CPU</u></li>
+            </ol>
+            </td>
+            <th>CPU</th>
+            </tr>
+            
+            <tr>
+            <td>
+            <ol type="i" start="2">
+            <li><u>Monitor</u></li>
+            </ol>
+            </td>
+            <td>
+            <ul>
+            <li>Use of CPU</li>
+            </ul>
+            </td>
+            </tr>
+            
+            <tr>
+            <td>
+            <ol type="i" start="3">
+            <li><u>Keyboard</u></li>
+            </ol>
+            </td>
+            <td>
+            <ul>
+            <li>How CPU works?</li>
+            </ul>
+            </td>
+            </tr>
+            
+            <tr>
+            <td>
+            <ol type="i" start="4">
+            <li><u>Mouse</u></li>
+            </ol>
+            </td>
+            <td>
+            <ul>
+            <li>Other hardware used in CPU</li>
+            </ul>
+            </td>
+            </tr>
+            </table>
+            
+            <hr /> 
+    </body>
+</html>
+
+
+    
+    
+    
