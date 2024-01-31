@@ -1,0 +1,61 @@
+<html>
+    <head>
+        <title>TABLE 4</title>
+    </head>
+    <body>
+        <table border="1" cellpadding="10">
+            <tr>
+            <td colspan="3">Vehical List</td>
+            </tr>
+            
+            <tr>
+            <th colspan="2">VEHICAL TYPE</th>
+            <th>UNIT</th>
+            </tr>
+            
+            <tr>
+            <td rowspan="4">Two wheelers</td>
+            <td>Moped</td>
+            <td>Two</td>
+            </tr>
+            
+            <tr>
+            <td>Scooty</td>
+            <td>Two</td>
+            </tr>
+            
+            <tr>
+            <td>Scooter</td>
+            <td>Three</td>
+            </tr>
+            
+            <tr>
+            <td>Kinetic</td>
+            <td>Two</td>
+            </tr>
+            
+            <tr>
+            <td rowspan="4">Four wheelers</td>
+            <td>Car</td>
+            <td>Four to six</td>
+            </tr>
+            
+            <tr>
+            <td>Omni van</td>
+            <td>Twelve</td>
+            </tr>
+            
+            <tr>
+            <td>Van</td>
+            <td>Fourteen</td>
+            </tr>
+            
+            <tr>
+            <td>Truck</td>
+            <td>Three</td>
+            </tr>
+            </table>
+            <hr />
+    </body>
+</html>
+
