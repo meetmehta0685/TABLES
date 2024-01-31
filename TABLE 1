@@ -1,0 +1,78 @@
+<html>
+    <head>
+    <title>TABLE 1</title>
+
+    
+    </head>
+    <body>
+        <table border="1">
+            <thead>
+                <tr>
+
+                    <th>Product</th>
+                    <th>Name</th>
+                    <th>Company</th>
+                    <th>Prize</th>
+
+                </tr>
+
+
+            </thead>
+           
+            
+        
+                
+            
+            <tbody>
+                <tr>
+                    <td rowspan="4">Ice Cream</td>
+                    <td rowspan="2"> Vadilal</td>
+                    <td>Cup</td>
+                    
+                    <td>10</td>
+                </tr>
+                <tr>
+                    <td>Family Pack</td>
+                    <td>80</td>
+                </tr>
+                <tr>
+                    <td rowspan="2">Havmore</td>
+                    <td>small</td>
+                    <td>15</td>
+                </tr>
+                <tr>
+                    <td>large</td>
+                    <td>90</td>
+                </tr>
+                <tr>
+                    <td rowspan="4">Pizza</td>
+                    <td rowspan="2">US Pizza</td>
+                    <td>Jain</td>
+                    <td>250</td>
+
+                </tr>
+                <tr>
+                    <td>Italian</td>
+                    <td>200</td>
+                </tr>
+                <tr>
+                    <td rowspan="2">Pizza Hut</td>
+                    <td>Small</td>
+                    <td>180</td>
+                </tr>
+                <tr>
+                    <td>Large</td>
+                    <td>180</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>Note:Offer valids upto:16-07-2005</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                
+
+            </tbody>
+        </table>
+    </body>
+</html>
